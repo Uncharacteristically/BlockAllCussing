@@ -1,0 +1,2 @@
+# BlockAllCussing
+Blocks swears.
